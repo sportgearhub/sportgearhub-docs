@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "docs": {
+        "legal": {
+            "privacy_policy": "/docs/legal/privacy_policy",
+            "terms_of_use": "/docs/legal/terms_of_use",
+            "getting_started": "/docs/getting-started",
+            "faq": "/docs/faq"
+        }
+    }
+}
